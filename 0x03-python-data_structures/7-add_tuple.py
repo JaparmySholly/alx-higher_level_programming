@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-
 def add_tuple(tuple_a=(), tuple_b=()):
     """Adds elements of 2 tuples"""
     if len(tuple_a) < 1:
